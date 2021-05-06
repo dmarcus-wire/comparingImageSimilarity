@@ -1,0 +1,6 @@
+jupyter
+tensorflow
+imutils
+numpy
+opencv-python
+matplotlib
