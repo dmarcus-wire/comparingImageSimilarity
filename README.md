@@ -2,6 +2,8 @@
 
 Make Predictions with Siamese Network
 
+![image](./image-similarity.png)
+
 ```
 .
 ├── README.md
